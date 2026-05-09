@@ -1,0 +1,4 @@
+temp_uploaded_db.sqlite
+__pycache__/
+*.pyc
+.env
